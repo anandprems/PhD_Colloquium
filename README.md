@@ -1,0 +1,1 @@
+A comprehensive repository containing project slides, research papers, and supporting documents prepared for colloquium submission, focusing on advanced ECG signal classification using hybrid deep learning models.
